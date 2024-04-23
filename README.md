@@ -1,4 +1,4 @@
-### Olá pessoal! Aqui é a Fernanda Polga, estudante de ecomp e eterna entusiasta aprendiz de programação ;3) 
+### Olá pessoal! Aqui é a Fernanda Polga, estudante de EComp e persistente aprendiz de programação ;3) 
 
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Polga-Fe&show_icons=true&count_private=true&theme=midnight-purple"/>
